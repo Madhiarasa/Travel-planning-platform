@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travel-planning-platform/static/css/main.816a4bfd.css",
+    "main.js": "/Travel-planning-platform/static/js/main.4c8ba050.js",
+    "index.html": "/Travel-planning-platform/index.html",
+    "main.816a4bfd.css.map": "/Travel-planning-platform/static/css/main.816a4bfd.css.map",
+    "main.4c8ba050.js.map": "/Travel-planning-platform/static/js/main.4c8ba050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816a4bfd.css",
+    "static/js/main.4c8ba050.js"
+  ]
+}
